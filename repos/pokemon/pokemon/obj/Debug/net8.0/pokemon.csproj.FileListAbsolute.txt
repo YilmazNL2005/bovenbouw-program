@@ -1,0 +1,15 @@
+C:\Users\yilma\source\repos\pokemon\pokemon\bin\Debug\net8.0\pokemon.exe
+C:\Users\yilma\source\repos\pokemon\pokemon\bin\Debug\net8.0\pokemon.deps.json
+C:\Users\yilma\source\repos\pokemon\pokemon\bin\Debug\net8.0\pokemon.runtimeconfig.json
+C:\Users\yilma\source\repos\pokemon\pokemon\bin\Debug\net8.0\pokemon.dll
+C:\Users\yilma\source\repos\pokemon\pokemon\bin\Debug\net8.0\pokemon.pdb
+C:\Users\yilma\source\repos\pokemon\pokemon\obj\Debug\net8.0\pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\source\repos\pokemon\pokemon\obj\Debug\net8.0\pokemon.AssemblyInfoInputs.cache
+C:\Users\yilma\source\repos\pokemon\pokemon\obj\Debug\net8.0\pokemon.AssemblyInfo.cs
+C:\Users\yilma\source\repos\pokemon\pokemon\obj\Debug\net8.0\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\yilma\source\repos\pokemon\pokemon\obj\Debug\net8.0\pokemon.sourcelink.json
+C:\Users\yilma\source\repos\pokemon\pokemon\obj\Debug\net8.0\pokemon.dll
+C:\Users\yilma\source\repos\pokemon\pokemon\obj\Debug\net8.0\refint\pokemon.dll
+C:\Users\yilma\source\repos\pokemon\pokemon\obj\Debug\net8.0\pokemon.pdb
+C:\Users\yilma\source\repos\pokemon\pokemon\obj\Debug\net8.0\pokemon.genruntimeconfig.cache
+C:\Users\yilma\source\repos\pokemon\pokemon\obj\Debug\net8.0\ref\pokemon.dll
